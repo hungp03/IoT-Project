@@ -1,3 +1,5 @@
 venv/
 csvs/
 002-Feature_selection/results
+003_Algorithm_selection/DT_HPO.csv
+003_Algorithm_selection/XGB_HPO.csv
